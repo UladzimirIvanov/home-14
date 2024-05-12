@@ -1,0 +1,9 @@
+docnum 123456789012345
+docnum 122q6
+docnum 1e3q5
+docnum 1q3q4
+docnum 1256q3
+docnum 2130r8i12e12edj
+docnum up
+docnum 3
+docnum 123456789012345
